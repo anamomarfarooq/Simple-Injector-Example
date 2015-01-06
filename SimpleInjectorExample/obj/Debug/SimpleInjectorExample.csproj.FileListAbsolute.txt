@@ -1,0 +1,12 @@
+c:\users\anamomar\documents\visual studio 2013\Projects\SimpleInjectorExample\SimpleInjectorExample\bin\Debug\SimpleInjectorExample.exe.config
+C:\Users\anamomar\Documents\Visual Studio 2013\Projects\SimpleInjectorExample\SimpleInjectorExample\obj\Debug\SimpleInjectorExample.DisplayText.resources
+C:\Users\anamomar\Documents\Visual Studio 2013\Projects\SimpleInjectorExample\SimpleInjectorExample\obj\Debug\SimpleInjectorExample.Properties.Resources.resources
+C:\Users\anamomar\Documents\Visual Studio 2013\Projects\SimpleInjectorExample\SimpleInjectorExample\obj\Debug\SimpleInjectorExample.csproj.GenerateResource.Cache
+C:\Users\anamomar\Documents\Visual Studio 2013\Projects\SimpleInjectorExample\SimpleInjectorExample\bin\Debug\SimpleInjectorExample.exe
+C:\Users\anamomar\Documents\Visual Studio 2013\Projects\SimpleInjectorExample\SimpleInjectorExample\bin\Debug\SimpleInjectorExample.pdb
+C:\Users\anamomar\Documents\Visual Studio 2013\Projects\SimpleInjectorExample\SimpleInjectorExample\bin\Debug\SimpleInjector.Diagnostics.dll
+C:\Users\anamomar\Documents\Visual Studio 2013\Projects\SimpleInjectorExample\SimpleInjectorExample\bin\Debug\SimpleInjector.dll
+C:\Users\anamomar\Documents\Visual Studio 2013\Projects\SimpleInjectorExample\SimpleInjectorExample\bin\Debug\SimpleInjector.xml
+C:\Users\anamomar\Documents\Visual Studio 2013\Projects\SimpleInjectorExample\SimpleInjectorExample\bin\Debug\SimpleInjector.Diagnostics.xml
+C:\Users\anamomar\Documents\Visual Studio 2013\Projects\SimpleInjectorExample\SimpleInjectorExample\obj\Debug\SimpleInjectorExample.exe
+C:\Users\anamomar\Documents\Visual Studio 2013\Projects\SimpleInjectorExample\SimpleInjectorExample\obj\Debug\SimpleInjectorExample.pdb
